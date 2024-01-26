@@ -1,0 +1,27 @@
+/* header {
+  background-color: rgb(222, 216, 210);
+}
+main {
+  background-color: rgb(245, 222, 189);
+}
+.esho {
+  background-color: rgb(224, 180, 114);
+}
+aside {
+  background-color: rgb(16, 154, 110);
+}
+footer {
+  background-color: rgb(222, 216, 210);
+}
+.section div {
+  background-color: white;
+} */
+.cell {
+  color: black;
+}
+/* .container {
+  background-color: gray;
+} */
+.footer {
+  background-color: gray;
+}
